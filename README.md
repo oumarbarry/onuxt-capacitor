@@ -28,14 +28,13 @@ bunx ionic cap run android --livereload --external # for Android
 
 That's it ! Enjoy Live Reload on your physical device / emulator / simulator.
 
-Note: It's really a standalone capacitor project template. Ionic Vue is not used. We only use the Ionic CLI in order to get better Live Reload support.
+<u>Note</u>: This project is a standalone Capacitor project template. Ionic Vue is not used. **However, the Ionic CLI is integrated to enhance Live Reload support**.
 
 ## Integrations: UI Library
 
-Feel free to integrate your prefered Vue UI library: Vant UI / Konsta UI / Varlet UI / Quasar UI / Nuxt UI... They pretty much all have a Nuxt module.
+You can integrate your preferred Vue UI library, such as Vant UI, Konsta UI, Varlet UI, Quasar UI, Nuxt UI, and more. Most of these libraries offer Nuxt modules for seamless integration.
 
-But if you prefer Ionic Vue, check out preferably this other template: [onuxt-ionic](https://github.com/oumarbarry/onuxt-ionic)
-Choosing Capacitor + Ionic Vue vs Capacitor standalone + Another UI Library each comes with their own pros and cons.
+If you prefer using Ionic Vue, consider using this dedicated template: [**onuxt-ionic**](https://github.com/oumarbarry/onuxt-ionic).
 
 ## Docs
 
